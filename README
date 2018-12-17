@@ -1,0 +1,5 @@
+Simple Java DAO project performs queries and insertions into a database.
+
+-Preliminary: Create new tablespace and initialize table schema with provided sql script.
+
+
